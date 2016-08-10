@@ -1,2 +1,3 @@
 # helloword
-just another repository
+This is the first file I create on github.I've made the first step of my coding career.I hope nonting could hold me back or stay around...
+echo "hello Github"
